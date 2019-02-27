@@ -1,4 +1,4 @@
-# face-generation
+# Face-Generation
 Generative Adversarial Networks (GANs) for Face Generation
 
 
